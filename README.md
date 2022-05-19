@@ -10,3 +10,6 @@
 ## Tutorial 2
 * Simple Miniapp
 
+## Tutorial 3
+* Simple Miniapp and (Native App) Super App Communication
+  * JS Bridge
