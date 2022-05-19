@@ -1,12 +1,8 @@
-# Guide
 
-## Installation
-* Android Studio
+## Miniapp Resources  
+* External SPA https://m.gsmarena.com/samsung-phones-9.php
+* Concept https://www.w3.org/TR/mini-app-white-paper/#gap-analysis 
+* 
 
-## Tutorial 1
-* Simple Android Application
-* https://appsweep.guardsquare.com/builds/dbd572e0-41c9-4167-97e5-863bccdbbed2
 
-## Tutorial 2
-* Simple Miniapp
 
