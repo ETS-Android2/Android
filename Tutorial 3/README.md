@@ -1,5 +1,6 @@
 
 ## Miniapp Resources  
+* Video : https://www.youtube.com/watch?v=3jZ4dMeJR1A&t=302s
 * External SPA https://m.gsmarena.com/samsung-phones-9.php
 * Concept https://www.w3.org/TR/mini-app-white-paper/#gap-analysis 
 * How to update a TextView of an Activity from another class
